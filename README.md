@@ -1,6 +1,6 @@
 ## React-Native-Arm-DropDown
 
-<img src="https://github.com/AmurKhoyetsyan/React-Native-DropDown/blob/master/src/gif/dropdown.gif" />
+<img src="https://raw.githubusercontent.com/AmurKhoyetsyan/React-Native-DropDown/master/src/gif/dropdown.gif" />
 
 #### install React-Native-Arm-DropDown
 
@@ -8,9 +8,17 @@ if RN version >= 0.60
 
 npm i react-native-arm-dropdown
 
+### Default options
+
+| Props            |  Value         |
+| ---------------- | ---------------|
+| title            | String         |
+| id               | Number         |
+| items            | Array          |
+
 #### Example
 
-    import DropDown from 'react-native-dropdown';
+    import DropDown from 'react-native-arm-dropdown';
     
     let data = {
         title: 'DropDown',
