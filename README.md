@@ -1,12 +1,12 @@
-## React-Native-DropDown
+## React-Native-Arm-DropDown
 
 <img src="https://github.com/AmurKhoyetsyan/React-Native-DropDown/blob/master/src/gif/dropdown.gif" />
 
-#### install React-Native-DropDown
+#### install React-Native-Arm-DropDown
 
 if RN version >= 0.60
 
-npm i react-native-dropdown
+npm i react-native-arm-dropdown
 
 #### Example
 

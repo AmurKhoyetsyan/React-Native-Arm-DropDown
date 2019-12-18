@@ -6,7 +6,7 @@ import {
     View
 } from 'react-native';
 
-import DropDown from "./src/drop";
+import DropDown from "react-native-arm-dropdown";
 
 let data = {
     title: 'DropDown',
