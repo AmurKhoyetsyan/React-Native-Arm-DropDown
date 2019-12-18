@@ -1,6 +1,6 @@
 ## React-Native-DropDown
 
-<img src="gif/dropdown.gif" />
+<img src="https://github.com/AmurKhoyetsyan/React-Native-DropDown/blob/master/src/gif/dropdown.gif" />
 
 #### install React-Native-DropDown
 
