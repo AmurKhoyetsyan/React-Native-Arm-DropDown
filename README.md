@@ -8,7 +8,7 @@ if RN version >= 0.60
 
 npm i react-native-arm-dropdown
 
-### Default options
+### Props
 
 | Props            |  Value         |
 | ---------------- | ---------------|
