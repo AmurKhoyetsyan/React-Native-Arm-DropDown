@@ -10,11 +10,12 @@ npm i react-native-arm-dropdown
 
 #### Props
 
-| Props            |  Value         |
-| ---------------- | ---------------|
-| title            | String         |
-| id               | Number         |
-| items            | Array          |
+| Props            |  Types          |
+| ---------------- | ----------------|
+| title            | String          |
+| id               | Number          |
+| items            | Array           |
+| titleStyle       | Object or Array |
 
 #### Example
 
